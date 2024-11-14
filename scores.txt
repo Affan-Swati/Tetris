@@ -1,0 +1,5 @@
+User1 30
+NewUser 30
+User3 20
+User2 20
+User4 10
